@@ -1,0 +1,98 @@
+Công nghệ pin của tương lai: sạc vài giây, dùng vài tháng, chẳng cần dây, không lo nổ
+Điện thoại thông minh, nhà thông minh, và thậm chí là thiết bị đeo thông minh đang ngày một tiên tiến, nhưng chúng vẫn có những giới hạn về mặt năng lượng. Công nghệ pin vẫn dậm chân tại chỗ trong hàng thập kỷ. Nhưng một cuộc cách mạng sắp bùng nổ.
+Các công ty công nghệ và công ty xe hơi lớn trên thế giới đều biết về những giới hạn của pin lithium-ion. Trong khi chip và hệ điều hành ngày một hiệu quả hơn trong việc tiết kiệm điện, chúng ta vẫn chỉ có thể sử dụng các thiết bị trong thời gian tối đa từ 1 đến 2 ngày trước khi buộc phải cắm sạc. Tuy nhiên, khi các trường đại học chuẩn bị bước vào cuộc, có vẻ như mọi chuyện sắp thay đổi.
+Tất nhiên, sẽ phải mất một thời gian dài nữa chúng ta mới có thể "trên tay" những viên pin có thời lượng lên đến một tuần, nhưng bạn hẳn sẽ vui khi biết rằng quá trình phát triển đang diễn ra khá thuận lợi. Dưới đây là những phát kiến về pin hấp dẫn nhất, có tiềm năng nhất, sẽ sớm xuất hiện trên thị trường, từ những viên pin sạc xuyên không, cho đến pin sạc siêu nhanh, chỉ mất 30 giây mà thôi!
+Pin dây nano vàng
+Những thiên tài tại Đại học Irvine California đã tạo ra được những viên pin dây nano có thể chịu được rất nhiều lần sạc, mà nếu thực sự thành công, chúng ta sẽ sớm có được một loại pin mới không bao giờ bị chai.
+Dây nano có độ mỏng chỉ bằng 1/1000 sợi tóc người, là một loại vật liệu có tiềm năng to lớn trong sản xuất pin tương lai. Nhưng chúng luôn bị phá vỡ khi sạc. Đại học Irvine đã sử dụng các dây nano vàng trong một dung dịch điện phân dạng gel để ngăn tình trạng này xảy ra. Phát kiến này rõ ràng mang lại hiệu quả, khi mà các viên pin dây nano vàng chịu được đến hơn 200.000 lần sạc chỉ trong vòng 3 tháng và không hề có dấu hiệu bị chai một chút nào.
+Pin lithium-ion thể rắn
+Pin thể rắn thường có tính ổn định cao, nhưng phải trả giá bằng sự truyền điện phân. Một nghiên cứu của các nhà khoa học Toyota cho thấy họ đã thử nghiệm một loại pin thể rắn sử dụng dây siêu dẫn sulfide, từ đó cho ra viên pin với những đặc tính ưu việt hơn thông thường.
+Viên pin này có thể hoạt động với mức tụ điện siêu cao để nạp hoặc xả pin hoàn toàn chỉ trong vòng 7 phút, do đó cực kỳ lý tưởng để sử dụng cho xe hơi. Bởi nó là pin thể rắn nên ổn định và an toàn hơn nhiều so với các loại pin hiện tại. Một viên pin thể rắn như vậy có thể hoạt động ở nhiệt độ dao động từ -30 độ C đến hơn 100 độ C.
+Các vật liệu điện phân vẫn là một vấn đề trên viên pin này, do đó còn khá lâu nữa chúng ta mới được thấy nó xuất hiện trên xe hơi. Dù sao, đây vẫn là một hướng đi đúng đắn dẫn đến việc tạo ra những viên pin an toàn hơn, sạc nhanh hơn.
+Pin graphene Grabat
+
+Pin graphene có tiềm năng trở thành một trong những loại pin ưu việt nhất thế giới. Grabat đã phát triển được các viên pin graphene có thể dùng trên xe hơi, cho phép xe chạy hơn 800km mỗi lần sạc.
+Grapheno, công ty chịu trách nhiệm phát triển viên pin này, cho biết nó có thể được sạc đầy chỉ trong vài phút và thời gian sạc/xả nhanh hơn 33 lần so với pin lithium ion. Việc xả pin rất quan trọng với những thứ như xe hơi, vốn cần một lượng năng lượng cực lớn mỗi lần xả để tăng tốc.
+Hiện chưa có thông tin nào về việc liệu pin Grabat có được dùng trên bất kỳ sản phẩm nào hay chưa, nhưng công ty phát triển đã tung ra nhiều loại pin cho xe hơi, drone, xe đạp, và thậm chí là nhà thông minh.
+Siêu vi tụ điện làm bằng laser
+
+Các nhà khoa học tại Đại học Rice đã tạo ra một đột phá đối với siêu vi tụ điện. Hiện chúng khá đắt để sản xuất, nhưng nếu sử dụng laser thì mọi chuyện sẽ khác.
+Bằng cách sử dụng laser để đốt các khuôn điện cực lên một tấm nhựa, chi phí và công sức sản xuất sẽ giảm đi đáng kể. Kết quả là một viên pin có thể sạc nhanh hơn 50 lần so với pin hiện tại, và xả pin thậm chí chậm hơn so với các siêu tụ điện hiện tại. Chúng rất bền, có thể hoạt động dù bị vặn cong hơn 10.000 lần.
+Pin bọt
+
+Prieto tin rằng tương lai của pin là in 3D, và họ đã tìm cách thực hiện điều này khi giới thiệu một viên pin sử dụng chất nền là bọt đồng. Điều này có nghĩa những viên pin của Prieto không chỉ an toàn hơn vì không hề có chất điện phân dễ bắt lửa, mà còn có tuổi thọ dài hơn, sạc nhanh hơn, mật độ cao hơn 5 lần, giá thành sản xuất rẻ hơn và có kích thước nhỏ hơn.
+Prieto dự định sẽ trang bị viên pin của mình cho các món đồ nhỏ trước, như các loại vòng đeo thông minh chẳng hạn. Nhưng hãng cũng cho biết loại pin này có thể được phóng lớn lên, nên trong tương lai chúng ta có thể sẽ thấy chúng trên các điện thoại hay thậm chí là xe hơi nữa.
+Pin gập được, tương tự như giấy nhưng bền hơn
+
+Pin Jenax J.Flex được phát triển nhằm trang bị cho các món đồ công nghệ có thể uốn cong được. Viên pin giống như giấy này có thể được gập lại và có khả năng chống nước, có nghĩa là nó có thể được tích hợp vào quần áo hoặc các thiết bị đeo thông minh.
+Hiện viên pin đặc biệt này đã được tạo ra và kiểm nghiệm an toàn: nó có thể được gập hơn 200.000 lần mà không hề gặp vấn đề gì về mặt hiệu năng.
+Sạc xuyên không uBeam
+
+uBeam sử dụng siêu âm để truyền điện. Năng lượng được chuyển thành sóng âm thanh, con người và động vật không thể nghe thấy, được truyền đi và chuyển ngược lại thành điện năng khi chạm tới thiết bị.
+Ý tưởng về uBeam được hiện thực hóa bởi một nhà sinh vật học vũ trụ 25 tuổi Meredith Perry. Cô lập nên một công ty nhằm nghiên cứu công nghệ uBeam, với hi vọng trong tương lai sẽ có thể sạc các món đồ công nghệ xuyên không bằng cách sử dụng một tấm sạc dày chỉ 5mm. Tấm sạc này có thể được gắn lên tường, hay được biến thành các tranh nghệ thuật, và từ đó "bắn" năng lượng đến smartphone và laptop. Các thiết bị nhận chỉ cần một bộ nhận tín hiệu mỏng để sạc mà thôi.
+Sạc di động trong 30 giây bằng StoreDot
+
+StoreDot, một startup hình thành từ Khoa công nghệ nano của Đại học Tel Aviv, đã phát triển bộ sạc StoreDot. Nó có thể hoạt động tốt với các smartphone hiện tại, sử dụng các bán dẫn sinh học làm từ các hợp chất hữu cơ tự nhiên gọi là peptide - những chuỗi amino acid ngắn - vốn là các khối hình thành nên protein.
+Kết quả là chúng ta có một bộ sạc có thể sạc smartphone chỉ trong 60 giây. Viên pin được tạo thành từ "các hợp chất hữu cơ không bắt lửa đặt trong một cấu trúc bảo vệ an toàn nhiều lớp nhằm ngăn chặn quá tải điện áp và quá nhiệt", do đó không phải lo lắng về việc phát nổ.
+Công ty còn tiết lộ kế hoạch phát triển một viên pin dành cho các phương tiện giao thông chạy điện có thể sạc trong 5 phút và sau đó chạy được 482km.
+Hiện chưa có thông tin nào về ngày ra mắt toàn cầu của pin StoreDot. Trước đây từng có thông tin chúng sẽ được giới thiệu vào năm 2017, nhưng cuối cùng lại bị trì hoãn cho đến lúc này.
+Bộ sạc năng lượng mặt trời trong suốt
+
+Alcatel đã biểu diễn một chiếc điện thoại di động với tấm pin năng lượng mặt trời trong suốt phủ trên màn hình, cho phép người dùng sạc thiết bị bằng cách đặt nó trước ánh sáng.
+Dù công nghệ này chưa chắc sẽ được thương mại hóa trong tương lai gần, công ty vẫn hi vọng nó sẽ góp phần vào giải quyết vấn đề không đủ năng lượng pin để dùng mỗi ngày của người dùng di động. Điện thoại sẽ hoạt động được bằng ánh sáng mặt trời trực tiếp cũng như các loại ánh sáng thông thường, theo cách tương tự các tấm pin năng lượng mặt trời hiện nay.
+Pin nhôm - không khí, cho phép xe hơi điện chạy 1.770km mỗi lần sạc
+
+Một chiếc xe vừa qua đã thành công trong việc chạy 1.770km chỉ sau một lần sạc pin duy nhất. Bí mật của thành tích đáng nể này nằm ở một loại công nghệ pin gọi là nhôm - không khí, sử dụng khí oxy từ không khí để lấp đầy điện cực âm. Nhờ đó, viên pin sẽ nhẹ hơn nhiều so với pin lithium - ion vốn chứa đầy chất lỏng, gián tiếp giúp xe chạy được xa hơn.
+Pin hoạt động nhờ... nước tiểu
+
+Tổ chức The Bill Gates Foundation đang tài trợ cho một nghiên cứu tiến hành bởi Phòng thí nghiệm Robotic Bristol - nơi phát minh ra những viên pin có thể hoạt động nhờ nước tiểu. Theo các nhà khoa học thì viên pin của họ đủ hiệu quả để sạc một chiếc smartphone, nhưng nó hoạt động như thế nào?
+Sử dụng một cell nhiên liệu vi sinh (Microbial Fuel Cell), các vi sinh vật sẽ xử lý nước tiểu, phá vỡ liên kết của nó và tạo ra điện năng.
+Pin sạc bằng âm thanh
+
+Các nhà nghiên cứu tại Anh đã tạo ra một chiếc điện thoại có thể sạc nhờ âm thanh môi trường phát ra trong không gian xung quanh nó.
+Chiếc smartphone này được tạo ra dựa trên nguyên lý gọi là "hiệu ứng áp điện". Các máy phát nano bên trong điện thoại sẽ "thu hoạch" tiếng ồn môi trường đó và chuyển nó thành dòng điện.
+Các thanh nano này thậm chí còn phản ứng với giọng nói của con người, có nghĩa là bạn sẽ thực sự có thể vừa nói chuyện, vừa sạc điện thoại theo đúng nghĩa đen!
+Pin carbon kép Ryden, sạc nhanh gấp 20 lần pin thường
+Power Japan Plus vừa công bố công nghệ pin mới gọi là pin carbon kép Ryden. Nó không chỉ hoạt động được lâu hơn và sạc nhanh hơn pin lithium, mà nó còn có thể được sản xuất ngay trên dây chuyền sản xuất pin lithium!
+Loại pin này sử dụng vật liệu carbon, có nghĩa là chúng bền vững và thân thiện với môi trường hơn các loại pin hiện nay. Viên pin này nhờ vậy có thể sạc nhanh gấp 20 lần pin lithium-ion. Chúng còn bền hơn, có thể sạc được tối đa 3.000 chu kỳ, và còn an toàn hơn nữa khi mà nguy cơ cháy nổ là rất thấp.
+Pin...cát với thời lượng pin cao gấp 3 lần pin thường
+
+Đây là một loại pin lithium-ion, nhưng nó sử dụng cát thay vì graphite trong điện cực dượng để giúp tăng thời lượng pin đến hơn 3 lần so với các pin thông thường, đồng thời giá thành pin cũng được giảm bớt, và bản thân viên pin thì không hề độc hại và lại thân thiện với môi trường.
+Bây giờ hãy nói về mặt kỹ thuật một chút. Các nhà khoa học tại Đại học California Riverside đã tập trung nghiên cứu về silicon nano được một thời gian, nhưng vật liệu này xuống cấp quá nhanh và khó để sản xuất với số lượng lớn. Cát có thể được lọc tinh khiết, nghiền thành bột, sau đó hòa với muối và ma-giê trước khi được nung nóng để loại bỏ oxygen, kết quả cho ra silicon tinh khiết. Loại silicon này có thuộc tính xốp và cấu trúc ba chiều, giúp cải thiện hiệu năng và cả tuổi thọ pin nữa.
+Pin Natri-ion
+Các nhà khoa học tại Nhật Bản đang nghiên cứu nhiều loại pin mới không cần lithium như pin smartphone hiện nay. Các loại pin này sẽ sử dụng Natri, một trong những vật liệu phổ biến bậc nhất trên hành tinh, thay cho lithium vốn khá hiếm. Với Natri, chúng ta sẽ có những viên pin hoạt động hiệu quả gấp 7 lần so với pin thông thường.
+Việc nghiên cứu pin Natri-ion đã được tiến hành từ những năm 80, nhằm tìm ra một loại pin rẻ hơn so với lithium. Bằng cách dùng muối, nguyên tố phổ biến thứ 6 trên hành tinh, pin có thể sẽ có giá thành rẻ hơn nhiều. Loại pin này sẽ được thương mại hóa trong vòng từ 5 đến 10 năm tới, bắt đầu với smartphone, xe hơi, và nhiều thứ khác.
+Bộ sạc cell nhiên liệu hydro Upp
+
+Bộ sạc pin dự phòng dùng cell nhiên liệu hydro Upp hiện đã có mặt trên thị trường. Nó sử dụng hydro để cung cấp điện năng cho điện thoại của bạn, và là một viên pin thân thiện với môi trường.
+Một cell pin hydro có thể dùng để sạc một chiếc di động trong 5 lần (dung lượng 25Wh/cell), và sản phẩm phụ duy nhất nó tạo ra là hơi nước. Cục sạc này có một cổng USB-A, tức nó có thể sạc hầu hết các thiết bị USB với đầu ra 5V, 5W, 1000mA.
+Pin tích hợp... bình cứu hỏa
+Việc pin lithium-ion quá nhiệt, bốc cháy và thậm chí là phát nổ không còn là chuyện lạ. Vụ scandal Samsung Galaxy Note 7 là một ví dụ nhãn tiền. Chính vì vậy, các nhà nghiên cứu tại Đại học Stanford đã tạo ra một viên pin lithium-ion tích hợp... bình cứu hỏa.
+Nghe có vẻ to tát, nhưng thực ra viên pin này có một thành phần gọi là triphenyl phosphate, thường được sử dụng phổ biến làm chất chống cháy trong các thiết bị điện tử, cộng thêm plastic fibre để giúp tách biệt các điện cực âm và dương. Nếu nhiệt độ pin tăng hơn 150 độ C, plastic fibre sẽ nóng chảy và hóa chất triphenyl phosphate sẽ được thả ra. Nghiên cứu cho thấy phương thức mới này có thể ngăn pin khỏi bị bắt lửa trong 0,4 giây.
+Pin không lo cháy nổ
+
+Pin lithium-ion có một lớp vật liệu xốp chứa chất lỏng điện phân dễ bay hơi đặt giữa các lớp điện cực dương và điện cực âm. Mike Zimmerman, một nhà nghiên cứu tại Đại học Tufts ở Massachusetts, đã phát triển một loại pin có gấp đôi dung lượng so với pin lithium-ion nhưng không gặp phải những nguy hiểm như người đi trước.
+Pin của Zimmerman cực kỳ mỏng, chỉ dày hơn một chút so với hai chiếc thẻ tín dụng, và không sử dụng chất lỏng điện phân mà dùng một tấm phim plastic có thuộc tính tương tự. Nó có thể bị "hành hạ" đủ kiểu, và thậm chí là bị nung nóng mà vẫn không bốc cháy. Tất nhiên, vẫn còn nhiều thí nghiệm cần được tiến hành trước khi công nghệ này được đem ra sản xuất đại trà, nhưng ít ra chúng ta cũng an tâm phần nào khi có những lựa chọn an toàn hơn so với pin lithium-ion đang được phát triển.
+Pin chất lỏng - Liquid Flow
+Các nhà khoa học tại Harvard đã phát triển một viên pin có thể lưu trữ năng lượng trong các phân tử hữu cơ tan trong nước pH trung tính. Theo họ thì phương thức mới này sẽ cho phép pin Flow hoạt động được lâu hơn nhiều so với pin lithium-ion hiện tại.
+Khả năng chúng ta được thấy công nghệ này trên smartphone hay các sản phẩm tương tự là khá thấp, bởi giải pháp chất lỏng trong pin Flow được lưu trữ trong các thùng chứa lớn, càng lớn càng tốt. Đây có thể là một phương thức lý tưởng để lưu trữ năng lượng tạo ra bởi các giải pháp năng lượng tái tạo được như gió và mặt trời, và có thể nhanh chóng đưa điện vào mạng lưới theo nhu cầu. Điều này đã được chứng minh trong một nghiên cứu khác do Đại học Stanford tiến hành, khi mà viên pin Flow này có điện thế cao gấp đôi so với pin thông thường.
+IBM và ETH Zurich cũng đã phát triển được một viên pin chất lỏng nhỏ hơn nhiều, có thể sử dụng được trên các thiết bị di động. Viên pin mới này sẽ không chỉ cung cấp năng lượng cho các linh kiện mà còn giúp tản nhiệt chúng tạo ra. Hai công ty nói trên đã phát hiện ra 2 chất lỏng có thể hoạt động tốt trên viên pin và sẽ đưa nó vào một hệ thống có thể sản sinh ra năng lượng 1.4W/cm2, với 1W dự phòng để cung cấp điện cho pin.
+Pin Carbon-ion Zap&Go
+Công ty tại Oxford là ZapGo đã phát triển và sản xuất viên pin carbon-ion đầu tiên có thể sẵn sàng để tung ra thị trường. Pin carbon-ion kết hợp khả năng sạc siêu nhanh của một siêu tụ điện, với hiệu năng của một viên pin lithium-ion, và có thể hoàn toàn tái chế được.
+Công ty này còn có một cục sạc dự phòng có thể sạc đầy chỉ trong 5 phút và sau đó có thể sạc một chiếc smartphone từ 0 đến 100% trong 2 giờ.
+Pin Kẽm-không khí
+Các nhà khoa học tại Đại học Sydney tin rằng họ đã tìm ra cách sản xuất pin kẽm-không khí rẻ hơn nhiều so với các phương thức hiện nay. Pin kẽm-không khí được xem là ưu việt hơn pin lithium-ion, bởi chúng không bắt lửa. Vấn đề duy nhất ở đây là các linh kiện tạo ra pin khá đắt.
+Tuy nhiên, Đại học Sydney đã tạo được một viên pin kẽm-không khí mà không cần các linh kiện đắt đỏ đó. Những viên pin an toàn hơn, rẻ hơn sắp xuất hiện!
+Quần áo thông minh
+Các nhà nghiên cứu tại Đại học Surrey đang phát triển một phương thức cho phép bạn dùng quần áo để sạc điện thoại. Pin được tích hợp bên trong quần áo này được gọi là Máy phát điện nano Triboelectric (TENGs), vốn chuyển hóa chuyển động thành năng lượng dự trữ. Điện năng dự trữ này có thể được sử dụng để cấp điện cho điện thoại di động hay các thiết bị như Fitbit.
+Công nghệ này có thể áp dụng cho nhiều thứ chứ không chỉ riêng quần áo. Ví dụ, nó có thể được tích hợp vào vỉa hè để khi mọi người bước lên, nó sẽ lưu trữ điện năng để cấp cho đèn đường, hay tích hợp vào bánh xe để cấp điện cho xe.
+Pin kéo dãn được
+Các kỹ sư tại Đại học California ở San Diego đã phát triển được một cell nhiên liệu sinh học kéo dãn được, có thể tạo ra điện từ mồ hôi. Điện năng tạo ra đủ mạnh để cấp cho các đèn LED và các thiết bị dùng sóng Bluetooth, có nghĩa một ngày nào đó, nó sẽ được dùng để cấp điện cho các thiết bị wearable như smartwatch hay vòng tay theo dõi sức khỏe.
+Pin graphene của Samsung
+Samsung đã tìm ra cách phát triển những "quả bóng graphene" có khả năng tăng cường dung tích pin lithium-ion hiện tại thêm 45%, và giúp nó sạc nhanh hơn gấp 5 lần so với pin hiện nay. Cụ thể, Samsung cho biết pin graphene mới của hãng có thể sạc đầy trong 12 phút so với gần 1 tiếng so với pin graphene đời cũ.
+Samsung còn khẳng định viên pin này có tính ứng dụng không chỉ trên smartphone mà còn các phương tiện giao thông chạy điện, khi mà nó có thể chịu được nhiệt độ tối đa lên đến 60 độ C.
+Pin lithium-ion sạc nhanh hơn, an toàn hơn
+Các nhà khoa học tại Đại học Warwick đã phát triển một công nghệ mới cho phép pin lithium-ion hiện tại sạc nhanh gấp 5 lần so với giới hạn hiện nay. Công nghệ này sẽ thường xuyên theo dõi nhiệt độ pin một cách chính xác hơn nhiều so với các phương thức hiện tại.
+Các nhà khoa học còn phát hiện ra rằng pin hiện nay có thể được sạc nhanh hơn nhiều so với mức giới hạn khuyến nghị mà không hề ảnh hưởng đến hiệu năng hay gặp tình trạng quá nhiệt.
+Có lẽ chúng ta chẳng cần bất kỳ loại pin mới nào được đề cập đến từ đầu bài đến giờ đâu!
+Theo GenK

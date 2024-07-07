@@ -1,0 +1,14 @@
+Công nghệ pin cực "khủng" lần đầu tiên được phát triển
+Một nhóm nhà khoa học của Đại học Cambridge, Anh vừa tạo ra loại pin
+"siêu cấp" mới được xem như lời giải cho hàng loạt bài toán hóc búa về
+pin hiện nay.
+Một nhóm nhà khoa học của Đại học Cambridge, Anh vừa tạo ra loại pin "siêu cấp" mới được xem như lời giải cho hàng loạt bài toán hóc búa về pin hiện nay.
+
+
+Pin mới có tên lithium-oxygen hoặc lithium-air được tạo ra trong phòng thí nghiệm với hiệu quả sử dụng đạt tới hơn 90% và có thể sạc lại tới 2.000 lần. Về lý thuyết, loại pin mới mạnh gấp 10 lần so với pin lithium-ion thông dụng hiện nay.
+Cường độ năng lượng cực cao này có thể sánh ngang với hỗn hợp xăng, giúp nhà sản xuất có thể tạo ra những chiếc xe điện mạnh mẽ (dùng pin) với chi phí chỉ bằng 1/5 và trọng lượng bằng 1/5 so với các loại xe đang có hiện nay. Chỉ với một lần sạc duy nhất, những chiếc xe điện dùng pin lithium-air sẽ di chuyển được quãng đường hơn 600km.
+Tuy nhiên, vẫn còn rất nhiều thách thức cần giải quyết trước khi pin lithium-air có thể dùng thay thế cho xăng. Ở thời điểm hiện tại, các nhà khoa học của Đại học Cambridge đã xây dựng được mô hình kiểm tra để vượt qua một số thử thách này. Họ đã tạo ra loại pin lithium-air ở cấp độ phòng thí nghiệm có năng lượng lớn hơn, hiệu quả sử dụng cao hơn và độ ổn định tốt hơn nhiều.
+Mẫu pin thử nghiệm hiện mới chỉ xuất hiện trong phòng thí nghiệm. Các nhà nghiêm cứu đang tìm cách để biến chúng sản phẩm thực tế. Ngoài ra, loại pin này chỉ có thể sử dụng ôxy tinh khiết chứ không phải dạng ôxy thông thường từ bầu khí quyển bởi chúng có chứa CO2, Nitơ và hơi ẩm có thể gây hại cho điện cực kim loại. 
+Pin mới cũng cần điện cực graphite đặc biệt cùng với các thành phần hóa học khác. Ngoài ra, điện áp giữa sạc và xả cũng không được chênh nhau nhiều để tăng tối đa hiệu suất sử dụng.
+Theo các nhà khoa học, sẽ phải mất ít nhất 10 năm để thương mại hóa pin lithium-air. Còn hiện tại, chúng ta vẫn phải "chung sống" với những hạn chế nhất định của công nghệ pin, vốn là nỗi trăn trở khôn nguôi đối với các nhà sản xuất smartphone và thiết bị điện tử.
+Nguyễn Minh 
