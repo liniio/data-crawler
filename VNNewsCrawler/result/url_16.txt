@@ -1,9 +1,0 @@
-Apple đang phát triển công nghệ pin mới cho iPhone
-Với lợi ích chính là tăng dung lượng và tuổi thọ pin, công nghệ Apple vừa được cấp chứng nhận hứa hẹn sẽ giải quyết nhiều khuyết điểm bất cập của thế hệ pin di động hiện tại.
-Theo BGR, bản đăng ký của Apple mang tên Battery Can (tạm dịch: Hộp pin) nộp lên cơ quan Sáng chế và Thương hiệu Mỹ hồi đầu tháng, được cấp chứng nhận vào ngày 6/10.
-Công nghệ này chủ yếu nghiên cứu cách tạo ra viên pin được bao bọc tốt và an toàn hơn, giảm thiểu những trường hợp cháy nổ và kéo dài thời gian sử dụng.
-Giải thích trong tài liệu, Apple cho rằng vấn đề hiệu suất và tuổi thọ pin ở các thiết bị di động và điện tử đang trở thành mối quan tâm của người dùng. Đặc biệt khi các thiết bị động có xu hướng nhỏ gọn hơn, nhu cầu pin tốt càng tăng.
-Khi đó, nhà sản xuất gặp nhiều khó khăn để tích hợp viên pin có kích thước nhỏ phù hợp thiết bị nhưng vẫn cung cấp đủ năng lượng.
-Để khắc phục vấn đề, sáng chế của Apple sử dụng phương pháp tạo ra sức ép lên những lớp lõi pin bên trong đặt giữa hai bề mặt được hàn chặt vào nhau. Theo hãng, cách thức này sẽ làm tăng hiệu suất của viên pin đồng thời giúp nó đạt được kích thước, hình dạng phù hợp với thiết bị di động.
-Ngoài ra, chi tiết quan trọng của công nghệ này là cách thu hẹp khoảng cách giữa lõi pin và Hộp pin. Viên pin sẽ được giữ chặt trong hộp, giảm thiểu các rủi ro cháy nổ hay pin phình to phá hủy thiết bị di động. Cũng nhờ được bảo vệ trong “chiếc hộp”, tuổi thọ và hiệu suất của pin sẽ được tăng đáng kể.
-Đề cập trong tài liệu của sáng chế, hãng cho rằng thế hệ pin mới sẽ được sử dụng được trên tất cả sản phẩm như iPhone, iPad, hay Apple TV... Sau đó đến các thiết bị điện tử khác. 
